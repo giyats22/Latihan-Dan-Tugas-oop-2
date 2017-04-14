@@ -1,0 +1,1 @@
+fungsi unik yang akan dipanggil secara otomatis pada object yang akan dilihat
